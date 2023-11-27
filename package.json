@@ -1,0 +1,23 @@
+{
+  "name": "riftrivals",
+  "version": "1.0.0",
+  "description": "A League of Legends Statistics Tracker, a web-based tool designed to help avid players and enthusiasts keep a close eye on their in-game performance. Whether you're a seasoned veteran or a newcomer to the League of Legends universe, this platform provides an intuitive and insightful way to track your gameplay statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshinha006/riftrivals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshinha006/riftrivals/issues"
+  },
+  "homepage": "https://github.com/marshinha006/riftrivals#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5"
+  }
+}
