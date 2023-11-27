@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/imageStyle.css"> 
+        <link rel="stylesheet" href="css/images.css"> 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap" rel="stylesheet">
@@ -16,7 +16,7 @@
             <header class="navbar-interactive">
                 <div class="site-title">
                     <a href="index.php" class="logo-link">
-                        <img src="images/logoo.png" alt="Logo" class="riftrivals-logo">
+                        <img src="images/logo.png" alt="Logo" class="riftrivals-logo">
                     </a>
                 </div>
                 <nav id="primary-navigation" class="home-links" role="navigation">
